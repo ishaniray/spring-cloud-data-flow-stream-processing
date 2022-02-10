@@ -99,7 +99,7 @@
     <properties>
         <spring-cloud-dataflow-dependencies.version>2.4.0.RELEASE</spring-cloud-dataflow-dependencies.version>
         <spring-cloud-dependencies.version>Hoxton.SR1</spring-cloud-dependencies.version>
-        <hibernate.compatible.version>5.4.12.Final</hibernate.compatible.version>
+        <hibernate.compatible.version>5.4.24.Final</hibernate.compatible.version>
         <maven.compiler.source>1.8</maven.compiler.source>
     	<maven.compiler.target>1.8</maven.compiler.target>
     	<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
